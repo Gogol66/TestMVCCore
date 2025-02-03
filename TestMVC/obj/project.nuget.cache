@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nTN4G2Ze1FY=",
+  "dgSpecHash": "uN98TIdhMck=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Gogol\\Desktop\\TestMVC\\TestMVC\\TestMVC.csproj",
+  "projectFilePath": "C:\\Users\\Gogol\\Desktop\\TestMVCCore\\TestMVC\\TestMVC.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Gogol\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Gogol\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

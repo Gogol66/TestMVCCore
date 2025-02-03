@@ -7685,11 +7685,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Gogol\\Desktop\\TestMVC\\TestMVC\\TestMVC.csproj",
+      "projectUniqueName": "C:\\Users\\Gogol\\Desktop\\TestMVCCore\\TestMVC\\TestMVC.csproj",
       "projectName": "TestMVC",
-      "projectPath": "C:\\Users\\Gogol\\Desktop\\TestMVC\\TestMVC\\TestMVC.csproj",
+      "projectPath": "C:\\Users\\Gogol\\Desktop\\TestMVCCore\\TestMVC\\TestMVC.csproj",
       "packagesPath": "C:\\Users\\Gogol\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Gogol\\Desktop\\TestMVC\\TestMVC\\obj\\",
+      "outputPath": "C:\\Users\\Gogol\\Desktop\\TestMVCCore\\TestMVC\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Gogol\\AppData\\Roaming\\NuGet\\NuGet.Config"
